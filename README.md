@@ -39,7 +39,8 @@ and Power BI.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](Netflix_Dashboard_Screenshot.png)
+![Dashboard](Netflix-Dashboard-Screenshot.png)
+
 
 ---
 
