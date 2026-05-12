@@ -36,7 +36,22 @@ and Power BI.
 ---
 
 ## 📁 Project Structure
----
+netflix-content-strategy-analysis/
+│
+├── 📄 netflix_analysis.py      — Main Python analysis code
+├── 📊 netflix_titles.csv       — Original dataset (8,807 titles)
+├── 📊 netflix_cleaned.csv      — Cleaned dataset
+├── 📊 netflix_clustered.csv    — ML clustering results
+├── 📁 charts/                  — All visualizations
+│   ├── 01_movies_vs_tvshows.png
+│   ├── 02_top_countries.png
+│   ├── 03_content_per_year.png
+│   ├── 04_top_genres.png
+│   ├── 05_ratings.png
+│   └── 06_kmeans_clusters.png
+├── 📁 sql/
+│   └── netflix_queries.sql     — SQL analysis queries
+└── 📊 Netflix_Dashboard.pbix   — Power BI Dashboard
 
 ## 📊 Dashboard Preview
 ![Dashboard](Netflix-Dashboard-Screenshot.png)
