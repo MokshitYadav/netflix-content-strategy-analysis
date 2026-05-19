@@ -1,4 +1,3 @@
-
 -- Netflix SQL Analysis
 -- By Mokshit Yadav
 
